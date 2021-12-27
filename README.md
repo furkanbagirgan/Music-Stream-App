@@ -1,6 +1,6 @@
-# music_stream
+# Music Stream App
 
-A new Flutter application.
+Music stream app is an online music stream platform app. In this application, users can share their musics in detail, if they want, they can save musics their list and evaluate other shared musics. This application was made using flutter and dart and the data was stored in firebase. The firebase services used are: -Firebase Authentication -Firebase Firestore -Firebase Storage
 
 ## Getting Started
 
