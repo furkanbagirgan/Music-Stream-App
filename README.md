@@ -4,45 +4,45 @@ Music stream app is an online music stream platform app. In this application, us
 
 ## Home Page
 <div>
-<kbd><img src="screens/home1.jpeg" width="300"></kbd>
-<kbd><img src="screens/home2.jpeg" width="300"></kbd>
+<kbd><img src="screens/home1.jpeg" width="200"></kbd>
+<kbd><img src="screens/home2.jpeg" width="200"></kbd>
 </div>
 
 ## Player Page
 <div>
-<kbd><img src="screens/player.jpeg" width="300"></kbd>
+<kbd><img src="screens/player.jpeg" width="200"></kbd>
 </div>
 
 ## Login Page
 <div>
-<kbd><img src="screens/login.jpeg" width="300"></kbd>
+<kbd><img src="screens/login.jpeg" width="200"></kbd>
 </div>
 
 ## Register Page
 <div>
-<kbd><img src="screens/register.jpeg" width="300"></kbd>
+<kbd><img src="screens/register.jpeg" width="200"></kbd>
 </div>
 
 ## List Page
 <div>
-<kbd><img src="screens/list.jpeg" width="300"></kbd>
+<kbd><img src="screens/list.jpeg" width="200"></kbd>
 </div>
 
 ## Artists Page
 <div>
-<kbd><img src="screens/artists.jpeg" width="300"></kbd>
+<kbd><img src="screens/artists.jpeg" width="200"></kbd>
 </div>
 
 ## Profile Page
 <div>
-<kbd><img src="screens/profile1.jpeg" width="300"></kbd>
-<kbd><img src="screens/profile2.jpeg" width="300"></kbd>
+<kbd><img src="screens/profile1.jpeg" width="200"></kbd>
+<kbd><img src="screens/profile2.jpeg" width="200"></kbd>
 </div>
 
 ## Add Music Page
 <div>
-<kbd><img src="screens/addMusic1.jpeg" width="300"></kbd>
-<kbd><img src="screens/addMusic2.jpeg" width="300"></kbd>
+<kbd><img src="screens/addMusic1.jpeg" width="200"></kbd>
+<kbd><img src="screens/addMusic2.jpeg" width="200"></kbd>
 </div>
 
 ## Getting Started
