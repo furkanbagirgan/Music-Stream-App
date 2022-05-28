@@ -4,45 +4,45 @@ Music stream app is an online music stream platform app. In this application, us
 
 ## Home Page
 <div>
-<img src="screens/home1.jpeg" width="300">
-<img src="screens/home2.jpeg" width="300">
+<kbd><img src="screens/home1.jpeg" width="300"></kbd>
+<kbd><img src="screens/home2.jpeg" width="300"></kbd>
 </div>
 
 ## Player Page
 <div>
-<img src="screens/player.jpeg" width="300">
+<kbd><img src="screens/player.jpeg" width="300"></kbd>
 </div>
 
 ## Login Page
 <div>
-<img src="screens/login.jpeg" width="300">
+<kbd><img src="screens/login.jpeg" width="300"></kbd>
 </div>
 
 ## Register Page
 <div>
-<img src="screens/register.jpeg" width="300">
+<kbd><img src="screens/register.jpeg" width="300"></kbd>
 </div>
 
 ## List Page
 <div>
-<img src="screens/list.jpeg" width="300">
+<kbd><img src="screens/list.jpeg" width="300"></kbd>
 </div>
 
 ## Artists Page
 <div>
-<img src="screens/artists.jpeg" width="300">
+<kbd><img src="screens/artists.jpeg" width="300"></kbd>
 </div>
 
 ## Profile Page
 <div>
-<img src="screens/profile1.jpeg" width="300">
-<img src="screens/profile2.jpeg" width="300">
+<kbd><img src="screens/profile1.jpeg" width="300"></kbd>
+<kbd><img src="screens/profile2.jpeg" width="300"></kbd>
 </div>
 
 ## Add Music Page
 <div>
-<img src="screens/addMusic1.jpeg" width="300">
-<img src="screens/addMusic2.jpeg" width="300">
+<kbd><img src="screens/addMusic1.jpeg" width="300"></kbd>
+<kbd><img src="screens/addMusic2.jpeg" width="300"></kbd>
 </div>
 
 ## Getting Started
